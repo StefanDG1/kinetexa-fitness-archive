@@ -1,4 +1,8 @@
-# Kinetexa
+# Kinetexa fitness archive
+
+This fitness project was retired on 27 September 2026. Its source, commit history and AGPL-3.0-only license are preserved at [kinetexa-fitness-archive](https://github.com/StefanDG1/kinetexa-fitness-archive). The Kinetexa name and kinetexa.com domain are being reassigned to a separate informational publication. This archive does not implement that publication.
+
+See [the retirement record](docs/retirement.md). The remaining README describes the historical prerelease. Do not use kinetexa.com as a callback, production endpoint or deployment destination for this archive.
 
 Private fitness intelligence for runners and cyclists. Keep original recordings, inspect training, explore your routes and ask evidence-linked questions about your own history.
 

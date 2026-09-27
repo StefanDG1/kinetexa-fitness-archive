@@ -1,5 +1,7 @@
 # Repository guide
 
+The owner retired this fitness project on 27 September 2026. Preserve this archive. Earlier implementation instructions below are historical and do not authorize resuming development or deploying to kinetexa.com. Read `docs/retirement.md` before any restoration.
+
 - Build the complete V1 described in `docs/sources/`; the PRD defines requirements and the strategy brief explains the product. Later explicit user decisions override either document. Track changes in `docs/decisions.md`; never silently drop scope.
 - Keep implementation simple. Prefer maintained, compatible open-source libraries over rebuilding proven functionality. Check licenses and reuse only what fits.
 - Test where failure matters: authorization, private data, imports, calculations, payments and destructive operations. Prefer API/integration checks for behavior; use browsers mainly to review desktop/mobile UI, accessibility and the few essential user journeys. Avoid redundant or implementation-mirroring tests.

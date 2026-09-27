@@ -2,6 +2,10 @@
 
 These explicit user decisions take precedence over the original planning documents.
 
+## Retirement, 27 September 2026
+
+The owner selected Kinetexa and kinetexa.com for the former Caloxora cannabis-education publication and authorized retiring this fitness project. Preserve this project under `StefanDG1/kinetexa-fitness-archive`. The publication remains a separate private repository with separate hosting configuration. No fitness data, service credentials or AGPL application code are transferred into it. See [retirement](retirement.md).
+
 ## Functional V1 and verification budget, 7 September 2026
 
 - Resume implementation through successive substantial milestones until V1 functionality is complete. Frontend polish remains with the user, but reachable pages, complete controls, accurate results and usable error states are implementation work.

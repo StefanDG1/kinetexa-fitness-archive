@@ -1,5 +1,9 @@
 # Changelog
 
+## Retired, 27 September 2026
+
+Archived the fitness project and reserved its code/history and existing license for recovery. The owner reassigned the Kinetexa name and domain to a separate publication. See `docs/retirement.md`. No new application release is claimed.
+
 ## Unreleased
 
 ## 0.5.0-alpha.4 - 2026-09-07
